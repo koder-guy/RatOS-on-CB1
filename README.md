@@ -4,7 +4,7 @@
 <a href="https://os.ratrig.com"></a>
 </p>
 
-These scripts are designed to be run on a clean installation of the BIGTREETECH CB1 minimal kernel
+This script is designed to be run on a clean installation of the BIGTREETECH CB1 minimal kernel
 
 # Instructions
 
@@ -23,7 +23,7 @@ Clone this repository using the command:
 
 git clone https://github.com/koder-guy/RatOS-on-CB1.git
 
-Then finally run the main script:
+Then finally run the build script:
 
 cd RatOS-on-CB1
 sudo ./build.sh
