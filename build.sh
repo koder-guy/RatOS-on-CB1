@@ -10,7 +10,7 @@ set -e
 
 git clone --depth 1 --branch v1.2.4 https://github.com/Rat-OS/RatOS.git
 
-set -ea
+set -a
 source ./RatOS/src/config
 set +a
 
