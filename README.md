@@ -25,7 +25,7 @@ git clone https://github.com/koder-guy/RatOS-on-CB1.git
 
 Then finally run the build script:
 
-cd RatOS-on-CB1
+cd RatOS-on-CB1<br>
 sudo ./build.sh
 
 The full install takes a while, 15-20 minutes, and reboots at the end. When you open the RatOS web page for the first time you will see in the Machine section that the components are all showing as "Invalid". Just click the refresh button to sort that out.
