@@ -43,5 +43,7 @@ for PKG in ${PKGS[@]}; do
     popd
 done
 
+sudo apt install avahi-daemon
+
 echo "*** All Done - Rebooting ***"
 systemctl reboot -i
